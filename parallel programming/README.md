@@ -8,4 +8,4 @@
 - ЛР7 - (MPI + CUDA) метод Якоби
 - ЛР8 - (MPI + OpenMP) метод Якоби
 - КП1 - (CUDA) Ray Tracer
-- КП2 - (CUDA) Ray Tracer
+- КП2 - (OpenMp) Ray Tracer
